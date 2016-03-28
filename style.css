@@ -20,6 +20,13 @@ body{
 #name{
 	font-weight: 500;
 	color:black;
+	margin-bottom: 0px;
+}
+
+#under-const{
+	margin-top: 0px;
+	color:black;
+	font-weight: 300;
 }
 
 #background{
